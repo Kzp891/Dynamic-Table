@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic-Table", "Dynamic-Table\Dynamic-Table.vcxproj", "{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Debug|x64.ActiveCfg = Debug|x64
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Debug|x64.Build.0 = Debug|x64
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Debug|x86.ActiveCfg = Debug|Win32
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Debug|x86.Build.0 = Debug|Win32
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Release|x64.ActiveCfg = Release|x64
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Release|x64.Build.0 = Release|x64
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Release|x86.ActiveCfg = Release|Win32
+		{05A0D3C8-8F51-4C25-A66F-8D1E5C0B0D35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADF80B6-BBC5-4AE0-9631-41BF612CBC8C}
+	EndGlobalSection
+EndGlobal
